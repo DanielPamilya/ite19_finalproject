@@ -1,0 +1,1 @@
+void decimalToWords(int num, char *result);           // Converts decimal numbers to their word representation.
